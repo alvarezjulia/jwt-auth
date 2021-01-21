@@ -1,4 +1,4 @@
-package cmd
+package handlers
 
 import (
 	"github.com/dgrijalva/jwt-go"
